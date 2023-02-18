@@ -14,6 +14,12 @@ const styles = StyleSheet.create({
       height: "5%",
       marginBottom: "4%",
       marginTop: "5%",
+      textAlign: "center",
+      textAlignVertical: "center"
+    },
+    text: {
+      fontWeight: "bold",
+      fontSize: 30,
     },
     calcButtonsContainer: {
       flexDirection: 'row',
